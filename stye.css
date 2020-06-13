@@ -1,0 +1,41 @@
+* {
+    font-family: 'Palanquin', sans-serif;
+    font-size: 1.3vw;
+    padding: 0;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.title2 {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    display: block;
+}
+
+.yourTweet {
+    margin: 0 10%;
+    width: 60%;
+    font-weight: unset;
+}
+
+.container {
+    display: flex;
+    width: 60%;
+    margin: 10% auto;
+}
+
+.button {
+    margin-left: 220px;
+    width: 75px;
+    height: 30px;
+    background-color: #6528d6;
+    color: cornsilk;
+    padding: 0;
+    border-radius: 5px;
+}
